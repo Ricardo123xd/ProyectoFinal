@@ -1,0 +1,20 @@
+.background {
+    background-color: #8fdef2;
+}
+
+#resultado,
+#info {
+    text-align: left;
+}
+
+#titulos {
+    font-weight: bold;
+    text-align: left;
+    font-size: x-large;
+}
+#descripcion{
+    text-align: left;
+}
+.border{
+    padding: 10px;
+}
